@@ -23,7 +23,7 @@
       # say something nice to the user
     end
 
-!SLIDE ruby
+!SLIDE ruby smaller
 
     @@@ruby
     # DRY that!
@@ -41,7 +41,7 @@
       end
     end
 
-!SLIDE ruby
+!SLIDE ruby smaller
 
     @@@ruby
     class Order < ActiveRecord::Base

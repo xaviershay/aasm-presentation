@@ -2,14 +2,14 @@
 
 # Named scopes
 
-!SLIDE ruby
+!SLIDE ruby smaller
 
     @@@ruby
     # Turn this...
     named_scope :unpaid, :conditions => {:state => 'unpaid'}
     named_scope :paid,   :conditions => {:state => 'paid'}
 
-!SLIDE ruby
+!SLIDE ruby smaller
 
     @@@ruby
     # Into this!
