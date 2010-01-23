@@ -1,4 +1,7 @@
 [
   {"section": "title"},
-  {"section": "locking"}
+  {"section": "enum"},
+  {"section": "named_scopes"},
+  {"section": "locking"},
+  {"section": "fin"}
 ]

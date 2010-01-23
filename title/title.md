@@ -2,4 +2,8 @@
 
 # Acts As State Machine
 
-## PROTIPS
+## Xavier Shay (@xshay)
+
+!SLIDE image center
+
+![ROBOCOP](protip.jpg)
